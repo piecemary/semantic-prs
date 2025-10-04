@@ -1,4 +1,4 @@
-# Semantic PRs
+ricardocardenasvaldez@gmail.com# Semantic PRs
 
 > A GitHub app to check that pull requests follow the Conventional Commits spec
 
